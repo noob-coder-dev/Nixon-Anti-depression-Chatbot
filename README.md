@@ -1,7 +1,7 @@
 # Nixon-Anti-depression-Chatbot
-.<img src="https://user-images.githubusercontent.com/66888595/142619145-3496e65c-c78a-46d4-b7ce-1f86af03676c.gif" width="300" height="400">
-<img src="https://user-images.githubusercontent.com/66888595/142620645-39832bba-bf5a-49e9-8c5e-f26f0a2db197.gif" width="300" height="400">
-<img src="https://user-images.githubusercontent.com/66888595/142621851-fe463df3-9d45-49ed-921e-c8bb7c34e2e3.gif" width="300" height="400">
+.<img src="https://user-images.githubusercontent.com/66888595/142619145-3496e65c-c78a-46d4-b7ce-1f86af03676c.gif" width="200" height="300">
+<img src="https://user-images.githubusercontent.com/66888595/142620645-39832bba-bf5a-49e9-8c5e-f26f0a2db197.gif" width="200" height="300">
+<img src="https://user-images.githubusercontent.com/66888595/142621851-fe463df3-9d45-49ed-921e-c8bb7c34e2e3.gif" width="200" height="300">
 
 
 ## Table of content:
