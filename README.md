@@ -87,7 +87,7 @@ Mental Health and Depression are a rising cause of concern in the young generati
 </h3>
 
 *Nixon*, this chatbot fights against the 3 primary reasons for mental disorder(as recorded) as Unhealthy competition (in every field), Social media, and anxiety(usually introduced in our life through a smartphone), Lockdown(recent reason).
-The chatbot has been deployed in these social media(FB messenger, Slack), which is used frequently nowadays. Our bot is a conversational bot which is specialized in dealing with psychologically unhealthy situations. The healthy interactive, and friendly conversations with the chatbot(Name: Noob), technically, focuses on helping the user to share their feelings, letting them know about various ways for being in a mentally good and healthy mood through various videos, blogs, jokes, and a lot more. Eventually which helps to deal with loneliness. In fact, this chatbot provides medical support after determining clinically urgent depressive disorder.
+The chatbot has been deployed in these social media(FB messenger, Slack), which is used frequently nowadays. Our bot is a conversational bot which is specialized in dealing with psychologically unhealthy situations. The healthy interactive, and friendly conversations with the chatbot(Name: Nixon), technically, focuses on helping the user to share their feelings, letting them know about various ways for being in a mentally good and healthy mood through various videos, blogs, jokes, and a lot more. Eventually which helps to deal with loneliness. In fact, this chatbot provides medical support after determining clinically urgent depressive disorder.
 
 <h3>
   <span id="tech">Technical Aspects</span>
